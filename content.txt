@@ -16,9 +16,9 @@ p進弦理論 https://sugishun-tech.github.io/stringtheory/
 異世界に行ったときの記録 https://sugishun-tech.github.io/isekai/
 
 [ソーシャル]
-アルゴリズム備忘録 https://qiita.com/sugishun13
-学ぶことについて学ぶ https://note.com/sugishun_tech
-コード置き場 https://github.com/sugishun-tech
+Qiita:アルゴリズム備忘録 https://qiita.com/sugishun13
+note:学ぶことについて学ぶ https://note.com/sugishun_tech
+GitHub:コード置き場 https://github.com/sugishun-tech
 
 [自作便利ツール]
 市場監視 https://sugishun-tech.github.io/market/
