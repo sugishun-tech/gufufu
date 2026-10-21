@@ -9,10 +9,10 @@
 
 [謎テキスト]
 ジーンズに関する思考実験 https://sugishun-tech.github.io/jeans/
-p進弦理論 https://github.com/sugishun-tech/stringtheory
+p進弦理論 https://sugishun-tech.github.io/stringtheory/
 
 [アート]
-異世界に行ったときの記録 https://github.com/sugishun-tech/isekai
+異世界に行ったときの記録 https://sugishun-tech.github.io/isekai/
 
 [ソーシャル]
 アルゴリズム備忘録 https://qiita.com/sugishun13
