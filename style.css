@@ -1,0 +1,90 @@
+/* 白地、下線リンク、罫線、表組みを中心にした昔ながらのページ。 */
+body {
+  margin: 18px 16px;
+  background: #fff;
+  color: #222;
+  font-family: "MS Pゴシック", "ＭＳ Ｐゴシック", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.page {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+a:link { color: #0000cc; }
+a:visited { color: #663399; }
+a:hover { color: #b00000; }
+a:active { color: #cc0000; }
+a { text-decoration: underline; }
+a:focus-visible { outline: 2px dotted #222; outline-offset: 3px; }
+
+h1 {
+  margin: 26px 0 10px;
+  color: #800000;
+  text-align: center;
+  font-family: "MS P明朝", "ＭＳ Ｐ明朝", "Hiragino Mincho ProN", "Yu Mincho", serif;
+  font-size: 30px;
+  line-height: 1.5;
+}
+
+h2 {
+  margin: 0 0 10px;
+  padding: 3px 9px;
+  border: 1px solid #9daac0;
+  background: #e8edf5;
+  color: #20395d;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+p { margin: 12px 0; }
+hr {
+  height: 0;
+  margin: 16px 0;
+  border: 0;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #eee;
+}
+
+.welcome, .navigation, .footer, .site-name { text-align: center; }
+.welcome { margin-bottom: 20px; }
+.navigation { margin: 12px 0 22px; font-size: 14px; }
+.breadcrumb { font-size: 14px; }
+.site-name { margin-top: 8px; color: #555; }
+.footer { font-size: 14px; }
+.footer span { margin-right: 20px; }
+.footer span:empty { display: none; }
+
+/* 2列の素朴な表組み。狭い画面では記載順のまま縦に並べます。 */
+.directory {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+.directory td { width: 50%; padding: 0 0 22px; vertical-align: top; }
+.directory td:first-child { padding-right: 14px; }
+.directory td + td { padding-left: 14px; }
+.directory ul { margin: 8px 0 0; padding-left: 27px; }
+.directory li { margin: 2px 0; overflow-wrap: anywhere; }
+.empty-category { margin-left: 12px; color: #666; }
+
+.article { margin: 28px 0 34px; }
+.article h2 { margin-top: 28px; }
+.article p { margin-right: 12px; margin-left: 12px; }
+.mail-address { padding: 12px 0; font-size: 19px; overflow-wrap: anywhere; }
+
+#content-status:empty, #content-notice:empty { display: none; }
+.notice { padding: 10px 14px; border: 1px solid #b08b62; background: #fff8e8; }
+.notice p { margin: 4px 0; }
+.notice ul { margin: 8px 0; padding-left: 24px; }
+
+@media (max-width: 620px) {
+  body { margin: 12px; }
+  h1 { font-size: 26px; }
+  .directory, .directory tbody, .directory tr, .directory td { display: block; width: auto; }
+  .directory td, .directory td:first-child, .directory td + td { padding: 0 0 20px; }
+  .article p { margin-right: 4px; margin-left: 4px; }
+  .footer span { display: block; margin: 0 0 5px; }
+}

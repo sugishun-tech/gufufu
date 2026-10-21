@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="文章や考えごと、自作の道具やおもちゃを集めた個人サイト。">
+  <title>ぐふふの人生入門</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="content.js" defer></script>
+</head>
+<body>
+  <div class="page" id="top">
+    <h1>ぐふふの人生入門</h1>
+    <p class="welcome">文章や考えごと、自作の道具やおもちゃを集めています。</p>
+    <hr>
+    <p class="navigation">
+      [ ホーム |
+      <a href="about.html">このページについて</a> |
+      <a href="mail.html">メール</a> ]
+    </p>
+
+    <!-- 目次は content.txt から作成します。カテゴリーをここに書く必要はありません。 -->
+    <div id="contents" role="main" aria-label="カテゴリー別リンク集">
+      <p id="content-status" role="status"></p>
+      <div id="directory"></div>
+      <div id="content-notice"></div>
+      <noscript>
+        <p>目次の表示には JavaScript が必要です。
+          <a href="content.txt">リンク一覧（テキスト）</a>もご覧いただけます。</p>
+      </noscript>
+    </div>
+
+    <hr>
+    <p class="footer">
+      <span id="content-count"></span>
+      <a href="#top">ページの先頭へ</a>
+    </p>
+    <p class="site-name"><small>ぐふふの人生入門</small></p>
+  </div>
+</body>
+</html>
