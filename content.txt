@@ -14,7 +14,7 @@ Separate the dots https://sugishun-tech.github.io/separate_the_dots/
 p進弦理論 https://sugishun-tech.github.io/stringtheory/
 
 [アート]
-異世界に行った時の記憶 youtube ver https://www.youtube.com/watch?v=Vuv_34JOFmY
+異世界に行ったときの記憶 youtube ver https://www.youtube.com/watch?v=Vuv_34JOFmY
 異世界に行ったときの記録 github ver  https://sugishun-tech.github.io/isekai/
 
 [ソーシャル]
