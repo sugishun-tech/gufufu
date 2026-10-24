@@ -7,14 +7,15 @@
 [人生テキスト]
 オリジナル箴言集 https://sugishun-tech.github.io/proverbs/
 ハッカーになるには https://sugishun-tech.github.io/hacker/
-SeparateTheDots https://sugishun-tech.github.io/separate_the_dots/
+Separate the dots https://sugishun-tech.github.io/separate_the_dots/
 
 [謎テキスト]
 ジーンズに関する思考実験 https://sugishun-tech.github.io/jeans/
 p進弦理論 https://sugishun-tech.github.io/stringtheory/
 
 [アート]
-異世界に行ったときの記録 https://sugishun-tech.github.io/isekai/
+異世界に行った時の記憶 youtube ver https://www.youtube.com/watch?v=Vuv_34JOFmY
+異世界に行ったときの記録 github ver  https://sugishun-tech.github.io/isekai/
 
 [ソーシャル]
 Qiita https://qiita.com/sugishun13
