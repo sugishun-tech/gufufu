@@ -17,11 +17,6 @@ p進弦理論 https://sugishun-tech.github.io/stringtheory/
 異世界に行ったときの記憶 https://www.youtube.com/watch?v=Vuv_34JOFmY
 魔女コスプレ https://sugishun-tech.github.io/cosplay/
 
-[ソーシャル]
-Qiita https://qiita.com/sugishun13
-note https://note.com/sugishun_tech
-GitHub https://github.com/sugishun-tech
-
 [自作便利ツール]
 市場監視 https://sugishun-tech.github.io/market/
 積立投資シミュレーター https://sugishun-tech.github.io/investment_simulator/
