@@ -15,7 +15,6 @@ p進弦理論 https://sugishun-tech.github.io/stringtheory/
 
 [アート]
 異世界に行ったときの記憶 https://sugishun-tech.github.io/isekai/
-魔女コスプレ https://sugishun-tech.github.io/cosplay/
 
 [自作便利ツール]
 市場監視 https://sugishun-tech.github.io/market/
